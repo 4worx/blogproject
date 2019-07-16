@@ -1,0 +1,89 @@
+p{
+    list-style-type: none;
+  margin: 25px;
+  padding: 15px;
+  overflow: hidden;
+  display: block;
+  background-color: black;
+  
+}
+p a{
+   
+        display: block;
+        color: rgb(17, 215, 250);
+        padding: 8px 10px;
+        text-decoration: none;
+        float: right;
+        font-size: 20px;
+        
+      
+}
+p a:hover{
+    background-color: none;
+  color:rgb(248, 4, 4);
+  font-size: 20px;
+}
+
+p a1{
+    float: left;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    
+    
+    
+}
+p a1:hover{
+    background-color: none;
+    color: rgb(243, 2, 2);
+    font-size: 40px;
+}
+
+
+h1{
+    color: black;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size:35px;
+
+}
+.p1{
+    color: black;
+    font: normal, inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+}
+.p9{
+    display:block, black;
+    color: rgba(37, 18, 18, 0.863);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 30px;
+    text-align: center;
+}
+.p5{
+    display: block, black;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+h2{
+    display: block, black;
+    color: rgb(12, 8, 8);
+    font-size: 30px;
+}
+.p11{
+    text-align: center;
+    display: block, black;
+    color: rgba(236, 75, 0, 0.651);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    margin: 400px;
+    
+}
+
+
+
+
